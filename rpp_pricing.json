@@ -1,36 +1,36 @@
 {
   "rpp_pricing": [
     {
-      "key": "quebec_regular",
       "province": "Quebec",
-      "level": "regular",
+      "level": "Regular",
+      "pass": "rpp1024",
       "primary_price": 35,
       "secondary_price": 30,
       "multiple_price": 125,
       "average_price": 31.25
     },
     {
-      "key": "quebec_selected",
       "province": "Quebec",
-      "level": "selected",
+      "level": "Selected",
+      "pass": "promotionph",
       "primary_price": 30,
       "secondary_price": 25,
       "multiple_price": 105,
       "average_price": 26.25
     },
     {
-      "key": "ca_regular",
       "province": "CA",
-      "level": "regular",
+      "level": "Regular",
+      "pass": "rpp1024",
       "primary_price": 45,
       "secondary_price": 40,
       "multiple_price": 165,
       "average_price": 41.25
     },
     {
-      "key": "ca_selected",
       "province": "CA",
-      "level": "selected",
+      "level": "Selected",
+      "pass": "promotionph",
       "primary_price": 40,
       "secondary_price": 35,
       "multiple_price": 145,
