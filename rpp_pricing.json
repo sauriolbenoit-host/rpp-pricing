@@ -71,6 +71,30 @@
       "secondary_price": 35,
       "multiple_price": 145,
       "average_price": 36.25
+    },
+    {
+      "province": "CA",
+      "language": "French",
+      "level": "Regular",
+      "pass": "rpp1024",
+      "plan_details_primary": "60 Go Canada",
+      "primary_price": 45,
+      "plan_details_secondary": "60 Go Canada",
+      "secondary_price": 40,
+      "multiple_price": 165,
+      "average_price": 41.25
+    },
+    {
+      "province": "CA",
+      "language": "French",
+      "level": "Selected",
+      "pass": "promotionph",
+      "plan_details_primary": "60 Go Canada",
+      "primary_price": 40,
+      "plan_details_secondary": "60 Go Canada",
+      "secondary_price": 35,
+      "multiple_price": 145,
+      "average_price": 36.25
     }
   ]
 }
